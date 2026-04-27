@@ -1,16 +1,17 @@
-## Hi there 👋
+## yo. its ollz.
+(an autistic fella who codes, builds stuff, and breaks things until they work the way I want.)
 
-<!--
-**ollieq77/ollieq77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚧 What I do
+- **CURRENT PROJECT:** BeastieFunk — a [Beastieball](https://store.steampowered.com/app/1864950/Beastieball/) AU where beasties sing instead of playing volleyball.
 
-Here are some ideas to get you started:
+### 💻 Languages I know
+- **Haxe** — gotta know it for my FNF mod stuff lol  
+- **Lua** — used to do Roblox scripting  
+- **Python** — still learning  
+- **C++** — want to learn it, just don’t have the time right now  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools I use
+- **Visual Studio Code** — DUH, why wouldn't I?  
+- **FL Studio** — learning composition  
+- **Adobe Animate** — sometimes I do animations, still learning though  
+- **Scratch Editor** — yes I make my FNF sprites in Scratch. don’t question it.
